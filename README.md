@@ -1,1 +1,2 @@
-# Education-Project-Practicum
+# Colorado High School Graduation Rates by Location
+
