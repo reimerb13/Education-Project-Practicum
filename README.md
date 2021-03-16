@@ -1,2 +1,27 @@
 # Colorado High School Graduation Rates by Location
 
+# Project Summary
+
+The objective of this project is to use a specific data set to predict whether or not geographic location, such as metropolitan vs. rural areas, has an effect on high school graduation rates in Colorado. Each area is composed of different student populations based on gender and race.  The following is a dilemma which confronts many people in education: What data can be used to determine graduation rates amongst different counties in Colorado based on length of time.  Gaining insight into this dilemma will help the state of Colorado focus on which areas, metropolitan or rural, should be targeted to assist in improving graduation rates.
+
+# Data Collection
+
+The data was collected from the Colorado Department of Education website. The dataset chosen was an Excel file titled 'Graduates and Completers by Districts, Gender, and Race/Ethnicity’.
+
+# The Graduate Dataset
+
+The Graduate dataset contains 750 observations and 125 variables. Some of the variables that the dataset has includes the following:
+
+County Name: Name of county where schools are located
+
+Organization Name: Name of school/organization
+
+"Class Of..." Anticipated Year of Graduation Cohort: Specific graduation year (2016-2017, 2017-2018, 2018-2019, 2019-2020)
+
+Number of Years After Entering High School: Number of years after a student entered high school (4,5,6 or 7)
+
+All Students Graduates Total: Number of students who graduated at a school/organization during a specific school year
+
+All Students Graduation Rate: Graduation rate of students (in percentage) in 4, 5, 6, or 7 years from high school
+
+All Students Completion Rate: Completion rate of students (in percentage) in 4, 5, 6, or 7 years from high school
