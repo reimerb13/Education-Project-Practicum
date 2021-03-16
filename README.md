@@ -25,3 +25,12 @@ All Students Graduates Total: Number of students who graduated at a school/organ
 All Students Graduation Rate: Graduation rate of students (in percentage) in 4, 5, 6, or 7 years from high school
 
 All Students Completion Rate: Completion rate of students (in percentage) in 4, 5, 6, or 7 years from high school
+
+# Libraries Used in Python
+
+Here is the list of libraries used to complete the education project in Python:
+
+* numpy
+* pandas
+
+# Data Preparation
