@@ -45,8 +45,24 @@ The df2 data was then split into 4 different geographic regions: Metro, Western 
 
 # Metro Data
 
-The Metro data subset consisted of 10 different counties: El Paso, Arapahoe, Jefferson, Adams, Denver, Douglas, Boulder, Larimer, Clear Creek, and Gilpin. The summary statistics for the Metro data were calculated and then the top 5 counties where the total number of females completed high school.
+The Metro data subset consisted of 10 different counties: El Paso, Arapahoe, Jefferson, Adams, Denver, Douglas, Boulder, Larimer, Clear Creek, and Gilpin. The summary statistics for the Metro data were calculated and then the top five counties where the total number of females completed high school.
 
 <img width="469" alt="image" src="https://user-images.githubusercontent.com/79723505/112390306-eccb2f80-8caa-11eb-899b-528aefc5f8bf.png">
 
 The top five counties where females completed high school were El Paso, Arapahoe, Jefferson, Adams, and Denver.
+
+The top five counties where the total number of males who completed high school were also calculated.
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/79723505/112390563-5c411f00-8cab-11eb-9ff7-1c2edf914e63.png">
+
+The top five counties where males completed high school were El Paso, Arapahoe, Jefferson, Adams, and Denver.
+
+The top five counties where total number of years entered high school was also determined.
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/79723505/112390720-94e0f880-8cab-11eb-8302-6a7fa3b18c62.png">
+
+The top five Metro counties for total number of years entering high school was El Paso, Adams, Arapahoe, Larimer, and Boulder.
+
+# Western Data
+
+
