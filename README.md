@@ -39,4 +39,14 @@ Here is the list of libraries used to complete the education project in Python:
 
 The dataset, df, was uploaded into a Jupyter notebook using Anaconda. To begin preparing the data, the first five rows were dropped above because they were the totals from all of the data columns. These rows were excluded so that the main focus was the data without the data totals. The summary statistics of df was then determined and also the number of missing or NA values were calculated. The mean value for each column was imputed for the NA values and a new dataset was created (df2).
 
-After the df2 dataset was created, the first five rows of the df2 dataset were removed since they were the totals for each data column. The summary statistics of df2 was then calculated. 
+After the df2 dataset was created, the first five rows of the df2 dataset were removed since they were the totals for each data column. The summary statistics of df2 was then calculated. After seeing the summary statistics of df2, multiple boxplots were created to see if any outliers exist in the df2 data.
+
+The df2 data was then split into 4 different geographic regions: Metro, Western Slope/Mountain, Eastern Plains, and Southwestern. 
+
+# Metro Data
+
+The Metro data subset consisted of 10 different counties: El Paso, Arapahoe, Jefferson, Adams, Denver, Douglas, Boulder, Larimer, Clear Creek, and Gilpin. The summary statistics for the Metro data were calculated and then the top 5 counties where the total number of females completed high school.
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/79723505/112390306-eccb2f80-8caa-11eb-899b-528aefc5f8bf.png">
+
+The top five counties where females completed high school were El Paso, Arapahoe, Jefferson, Adams, and Denver.
