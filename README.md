@@ -32,5 +32,11 @@ Here is the list of libraries used to complete the education project in Python:
 
 * numpy
 * pandas
+* matplotlib.pyplot
+* seaborn
 
 # Data Preparation
+
+The dataset, df, was uploaded into a Jupyter notebook using Anaconda. To begin preparing the data, the first five rows were dropped above because they were the totals from all of the data columns. These rows were excluded so that the main focus was the data without the data totals. The summary statistics of df was then determined and also the number of missing or NA values were calculated. The mean value for each column was imputed for the NA values and a new dataset was created (df2).
+
+After the df2 dataset was created, the first five rows of the df2 dataset were removed since they were the totals for each data column. The summary statistics of df2 was then calculated. 
