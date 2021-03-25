@@ -65,4 +65,51 @@ The top five Metro counties for total number of years entering high school was E
 
 # Western Data
 
+The Western data subset consisted of 17 different counties: Mesa, Garfield, Eagle, Montrose, Delta, Summit, Routt, Chaffee, Gunnison, Pitkin, Moffat, Grand, Park, Rio Blanco, Lake, Ouray, and Jackson. The summary statistics for the Western data were calculated and then the top five counties where the total number of females completed high school.
 
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112403565-8272b900-8cc3-11eb-89c1-dbe36f64dba7.png">
+
+The top five counties where females completed high school were Mesa, Garfield, Eagle, Montrose, and Delta.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112403680-b4841b00-8cc3-11eb-9eba-00d16d72cfe7.png">
+
+The top five counties where females completed high school were Mesa, Garfield, Eagle, Montrose, and Delta.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112403774-e5fce680-8cc3-11eb-9cf0-44b4758f4efa.png">
+
+The top five Western counties for total number of years entering high school were Mesa, Garfield, Routt,
+Montrose, and Grand.
+
+# Eastern Data
+
+The Eastern data subset consisted of 18 different counties: Weld, Pueblo, Bent, Morgan, Elbert, Otero, Logan, Prowers, Yuma, Kit Carson, Sedgwick, Phillips, Washington, Lincoln, Baca, Crowley, Cheyenne, and Kiowa. The summary statistics for the Eastern data were calculated and then the top five counties where the total number of females completed high school.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112404138-a4b90680-8cc4-11eb-8a0d-c6d7f1274e15.png">
+
+The top 5 Eastern counties where females completed high school were Weld, Pueblo, Bent, Morgan, and Elbert.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112404239-d8942c00-8cc4-11eb-9f5a-65b3033c707f.png">
+
+The top 5 Eastern counties where females completed high school were Weld, Pueblo, Bent, Morgan, and Elbert.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112404347-0d07e800-8cc5-11eb-9e94-73f4e6d1a163.png">
+
+The top 5 eastern counties for students graduating high school after a number of years were Weld, Otero, Baca,
+Washingtion, and Elbert.
+
+# Southwestern Data
+
+The Southwestern data subset consisted of 18 different counties: La Plata, Fremont, Montezuma, Teller, Alamosa, Rio Grande, Las Animas, Conejos, San Miguel, Archuleta, Saguache, Huerfano, Custer, Costilla, Dolores, Hinsdale, Mineral, and San Juan. The summary statistics for the Southwestern data were calculated and then the top five counties where the total number of females completed high school.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112404844-f9a94c80-8cc5-11eb-9c32-5d97df56639f.png">
+
+The top 5 Southwestern counties where females completed high school were La Plata, Fremont, Montezuma, Teller, and Las Animas.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112404677-9f0ff080-8cc5-11eb-85ae-79944f123713.png">
+
+The top 5 Southwestern counties where males completed high school were La Plata, Fremont, Montezuma, Teller, and Las Animas.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112404915-180f4800-8cc6-11eb-8345-5b69d56f4da2.png">
+
+The top 5 Southwestern counties for number of years students completing high school were Las Animas, Fremont, Conejos
+Saguache, and Rio Grande.
