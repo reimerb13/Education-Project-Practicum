@@ -152,7 +152,9 @@ The top five Eastern counties with the best male graduation rate was Las Animas,
 
 # Exploratory Data Analysis
 
-During the exploratory data analysis, the male and female graduation rates were the primary focus based on ethnicities in each region. The ethnicity groups used were Asian, Black, Hispanic, White, and Other (Native Hawaiian or Other Pacific Islander). The summary statistics were found for each ethnicity in each region.
+During the exploratory data analysis, the male and female graduation rates were the primary focus based on ethnicities in each region. The ethnicity groups used were Asian, Black, Hispanic, White, and Other (Native Hawaiian or Other Pacific Islander). The summary statistics were found for each ethnicity in each region. The number of outliers were also calculated as well by ethnicity.
+
+
 
 
 
