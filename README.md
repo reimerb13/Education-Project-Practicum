@@ -113,3 +113,35 @@ The top 5 Southwestern counties where males completed high school were La Plata,
 
 The top 5 Southwestern counties for number of years students completing high school were Las Animas, Fremont, Conejos
 Saguache, and Rio Grande.
+
+# References
+
+Colorado Department of Education. (2021).  Graduates and Completers by Districts, Gender, 
+  and Race/Ethnicity.  Colorado Department of Education. Retrieved March 13, 2021 from 
+  https://www.cde.state.co.us/cdereval/gradratecurrent.
+
+DataScience Made Simple. (2021). BOX PLOT IN PYTHON WITH MATPLOTLIB. DataScience
+	Made Simple. Retrieved March 28, 2021 from 
+  https://www.datasciencemadesimple.com/box-plot-in-
+  python/#:~:text=boxplot%28%29%20function%20takes%20the%20data%20array%20to
+  %20be,plotted.%20Create%20box%20plot%20in%20python%20with%20notch.
+
+Matplotlib development team. (2021). List of named colors. Matplotlib. Retrieved March 28, 
+  2021 from https://matplotlib.org/stable/gallery/color/named_colors.html.
+
+Nanduri, A. (2020). Different ways to create, subset, and combine data frames using	pandas. 
+  Retrieved March 20, 2021 from https://towardsdatascience.com/different-ways-
+  to-create-subset-and-combine-dataframes-using-pandas-e7227330a7f1.
+
+OneStop_Data. (2020). Easy Outlier Detection in Python. OneStop Data Analysis. Retrieved
+	March 28, 2021 from https://onestopdataanalysis.com/python-outlier-detection/. 
+
+
+
+
+
+
+
+
+
+
