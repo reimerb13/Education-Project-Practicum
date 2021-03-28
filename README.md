@@ -63,6 +63,18 @@ The top five counties where total number of years entered high school was also d
 
 The top five Metro counties for total number of years entering high school was El Paso, Adams, Arapahoe, Larimer, and Boulder.
 
+The top five Metro counties focusing on female graduation rates were also determined.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772204-038bc200-8fdc-11eb-85b1-3340f504cd50.png">
+
+The top five Metro counties with the best female graduation rate was El Paso, Adams, Arapahoe, Larimer, and Boulder.
+
+The top five Metro counties focusing on male graduation rates were also determined.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772230-2027fa00-8fdc-11eb-9a9f-4ff39c9e68be.png">
+
+The top five Metro counties with the best male graduation rate was El Paso, Adams, Arapahoe, Larimer, and Boulder.
+
 # Western Data
 
 The Western data subset consisted of 17 different counties: Mesa, Garfield, Eagle, Montrose, Delta, Summit, Routt, Chaffee, Gunnison, Pitkin, Moffat, Grand, Park, Rio Blanco, Lake, Ouray, and Jackson. The summary statistics for the Western data were calculated and then the top five counties where the total number of females completed high school.
@@ -79,6 +91,14 @@ The top five counties where females completed high school were Mesa, Garfield, E
 
 The top five Western counties for total number of years entering high school were Mesa, Garfield, Routt,
 Montrose, and Grand.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772291-65e4c280-8fdc-11eb-94df-08896fe7cbc8.png">
+
+The top five Western counties with the best female graduation rates were Routt, Garfield, Mesa, Ouray, and Rio Blanco.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772311-83199100-8fdc-11eb-872a-ae5d7d80bbf8.png">
+
+The top five Western counties with the best male graduation rate was Routt, Garfield, Mesa, Rio Blanco, and Ouray.
 
 # Eastern Data
 
@@ -97,6 +117,14 @@ The top 5 Eastern counties where females completed high school were Weld, Pueblo
 The top 5 eastern counties for students graduating high school after a number of years were Weld, Otero, Baca,
 Washingtion, and Elbert.
 
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772331-a2182300-8fdc-11eb-98b9-6d1ad9a11372.png">
+
+The top five Eastern counties with the best female graduation rate was Weld, Otero, Elbert, Washington, and Baca.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772343-b5c38980-8fdc-11eb-8fa6-e1146b76906f.png">
+
+The top five Eastern counties with the best male graduation rate was Weld, Otero, Elbert, Washington, and Baca.
+
 # Southwestern Data
 
 The Southwestern data subset consisted of 18 different counties: La Plata, Fremont, Montezuma, Teller, Alamosa, Rio Grande, Las Animas, Conejos, San Miguel, Archuleta, Saguache, Huerfano, Custer, Costilla, Dolores, Hinsdale, Mineral, and San Juan. The summary statistics for the Southwestern data were calculated and then the top five counties where the total number of females completed high school.
@@ -113,6 +141,16 @@ The top 5 Southwestern counties where males completed high school were La Plata,
 
 The top 5 Southwestern counties for number of years students completing high school were Las Animas, Fremont, Conejos
 Saguache, and Rio Grande.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772367-d12e9480-8fdc-11eb-9499-8616e6a9a155.png">
+
+The top five Eastern counties with the best female graduation rate was Las Animas, Conejos, Rio Grande, Fremont, and Montezuma.
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/79723505/112772375-e73c5500-8fdc-11eb-865d-193c15e8905e.png">
+
+The top five Eastern counties with the best male graduation rate was Las Animas, Conejos, Rio Grande, Fremont, and Montezuma.
+
+# Exploratory Data Analysis
 
 # References
 
