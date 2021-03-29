@@ -154,6 +154,8 @@ The top five Eastern counties with the best male graduation rate was Las Animas,
 
 During the exploratory data analysis, the male and female graduation rates were the primary focus based on ethnicities in each region. The ethnicity groups used were Asian, Black, Hispanic, White, and Other (Native Hawaiian or Other Pacific Islander). The summary statistics were found for each ethnicity in each region. The number of outliers were also calculated as well by ethnicity.
 
+Female and Male Graduation Rates in Metro Counties by Ethnicity
+
 |Ethnicity|Mean Graduation Rate|Number of Outliers|
 |---------|--------------------|------------------|
 |Asian|14.2%|2|
@@ -162,8 +164,35 @@ During the exploratory data analysis, the male and female graduation rates were 
 |White|13.1%|2|
 |Other|12.3%|4|
 
+Female and Male Graduation Rates in Western Counties by Ethnicity
 
+|Ethnicity|Mean Graduation Rate|Number of Outliers|
+|---------|--------------------|------------------|
+|Asian|6.2%|0|
+|Black|5.5%|0|
+|Hispanic|5.7%|0|
+|White|6.2%|0|
+|Other|5.4%|0|
 
+Female and Male Graduation Rates in Eastern Counties by Ethnicity
+
+|Ethnicity|Mean Graduation Rate|Number of Outliers|
+|---------|--------------------|------------------|
+|Asian|14.3%|2|
+|Black|12.6%|2|
+|Hispanic|13.8%|2|
+|White|14.3%|2|
+|Other|12.5%|4|
+
+Female and Male Graduation Rates in Southwestern Counties by Ethnicity
+
+|Ethnicity|Mean Graduation Rate|Number of Outliers|
+|---------|--------------------|------------------|
+|Asian|8.1%|2|
+|Black|7.0%|2|
+|Hispanic|7.9%|2|
+|White|8.0%|1|
+|Other|7.1%|3|
 
 
 # References
