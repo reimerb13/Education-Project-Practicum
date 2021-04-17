@@ -220,7 +220,7 @@ The ANN model for the female Western data consisted of three hidden layers of 10
 |Gender||Precision||f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|18%|16%|Jackson County|
-|Male|21%|13%||
+|Male|21%|13%|County 13|
 
 The ANN model for the female Eastern data consisted of three hidden layers of 50 and a max iteration of 1,000. The ANN model for the male Eastern data 
 consisted of three hidden layers of 50 an a max iteration of 3,000. Below is a table of the results.
@@ -244,10 +244,10 @@ After completing the ANN models, decision trees were created for each region, ge
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
-|Metro||Female|45%|
-|Metro||Male||34%|
+|Metro|Female|45%|
+|Metro|Male|34%|
 |Western|Female|14%|
-|Western||Male||11%|
+|Western|Male|11%|
 |Eastern|Female|13%|
 |Eastern|Male|10%|
 |Southwestern|Female|13%|
