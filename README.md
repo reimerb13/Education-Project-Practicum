@@ -210,14 +210,14 @@ The first machine learning task completed was creating artificial neural network
 
 The ANN models for the Metro data consisted of three hidden layers of 25 and a max iteration of 3,000. Below is a table of the results. 
 
-|Gender||Precision||f1-Score|County with Best Results|
+|Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|54%|55%|El Paso County|
 |Male|53%|50%|El Paso County|
 
 The ANN model for the female Western data consisted of three hidden layers of 100 and a max of iteration of 1,000. The ANN model for the male Western data consisted of three hidden layers of 50 and a max of iteration of 1,000. Below is a table of the results.
 
-|Gender||Precision||f1-Score|County with Best Results|
+|Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|18%|16%|Jackson County|
 |Male|21%|13%|County 13|
@@ -225,7 +225,7 @@ The ANN model for the female Western data consisted of three hidden layers of 10
 The ANN model for the female Eastern data consisted of three hidden layers of 50 and a max iteration of 1,000. The ANN model for the male Eastern data 
 consisted of three hidden layers of 50 an a max iteration of 3,000. Below is a table of the results.
 
-|Gender||Precision||f1-Score|County with Best Results|
+|Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|2%|3%|County 6|
 |Male|12%|9%|County 12|
@@ -233,7 +233,7 @@ consisted of three hidden layers of 50 an a max iteration of 3,000. Below is a t
 The ANN model for the female Southwestern data consisted of three hidden layers of 100 and a max iteration of 3,000. The ANN model for the male Southwestern
 data consisted of three hidden layers of 50 and a max iteration of 3,000. Below is a table of the results.
 
-|Gender||Precision||f1-Score|County with Best Results|
+|Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|22%|14%|County 6|
 |Male|22%|17%|County 17|
