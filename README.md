@@ -213,30 +213,28 @@ The ANN models for the Metro data consisted of three hidden layers of 25 and a m
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|54%|55%|El Paso County|
-|Male|53%|50%|El Paso County|
+|Male|48%|44%|Boulder County|
 
-The ANN model for the female Western data consisted of three hidden layers of 100 and a max of iteration of 1,000. The ANN model for the male Western data consisted of three hidden layers of 50 and a max of iteration of 1,000. Below is a table of the results.
-
-|Gender|Precision|f1-Score|County with Best Results|
-|------|----------|---------|-------------------------|
-|Female|18%|16%|Jackson County|
-|Male|21%|13%|County 13|
-
-The ANN model for the female Eastern data consisted of three hidden layers of 50 and a max iteration of 1,000. The ANN model for the male Eastern data 
-consisted of three hidden layers of 50 an a max iteration of 3,000. Below is a table of the results.
+The ANN models for the female and male Western data consisted of three hidden layers of 20 and a max of iteration of 3,000. Below is a table of the results.
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
-|Female|2%|3%|County 6|
-|Male|12%|9%|County 12|
+|Female|23%|15%|Summit County|
+|Male|25%|12%|Montrose County|
 
-The ANN model for the female Southwestern data consisted of three hidden layers of 100 and a max iteration of 3,000. The ANN model for the male Southwestern
-data consisted of three hidden layers of 50 and a max iteration of 3,000. Below is a table of the results.
+The ANN model for the female and male Eastern data consisted of three hidden layers of 50 and a max iteration of 3,000. Below is a table of the results.
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
-|Female|22%|14%|County 6|
-|Male|22%|17%|County 17|
+|Female|1%|1%|Bent County|
+|Male|12%|9%|Prowers County|
+
+The ANN model for the female and male Southwestern data consisted of three hidden layers of 100 and a max iteration of 3,000. Below is a table of the results.
+
+|Gender|Precision|f1-Score|County with Best Results|
+|------|----------|---------|-------------------------|
+|Female|22%|14%|Fremont County|
+|Male|10%|10%|La Plata County|
 
 # Decision Trees
 
@@ -244,13 +242,13 @@ After completing the ANN models, decision trees were created for each region, ge
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
-|Metro|Female|45%|
+|Metro|Female|49%|
 |Metro|Male|34%|
 |Western|Female|14%|
 |Western|Male|11%|
-|Eastern|Female|13%|
+|Eastern|Female|12%|
 |Eastern|Male|10%|
-|Southwestern|Female|13%|
+|Southwestern|Female|15%|
 |Southwestern|Male|15%|
 
 # Dendograms and Agglomerative Clustering of Female Metro Data
@@ -303,7 +301,7 @@ Below is a table created for the number of clusters for each region of data base
 |Eastern|Female|3|2|0.679|
 |Eastern|Male|2|14|0.556|
 |Southwestern|Female|3|2|0.700|
-|Southwestern|Male|3|2|0.700|
+|Southwestern|Male|3|13|0.540|
 
 # Conclusions
 
