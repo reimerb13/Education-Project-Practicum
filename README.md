@@ -331,6 +331,10 @@ From the table above, the number of clusters from the Elbow Method and Silhouett
 
 # Conclusions
 
+The data shows that geographic location plays a role in high school graduation rates in Colorado. It was evident that ethnicity and gender played a role in Colorado high school graduation rates as well. The best accuracy rate for correctly predicting high school graduation rates in Colorado, based on the ANN models and decision trees, were in the Metro region. The least effective accuracy rate for correctly predicting high school graduation rates in Colorado, based on the ANN models and decision trees, were in the Eastern region. The ANN and decision trees showed that females generally had a better prediction for graduating high school in Colorado than males.
+
+# Future Project Ideas
+
 # References
 
 A Detailed Introduction to K-Means Clustering in Python! (2020, December 3). Analytics 
