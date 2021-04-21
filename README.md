@@ -34,6 +34,8 @@ Here is the list of libraries used to complete the education project in Python:
 * pandas
 * matplotlib.pyplot
 * seaborn
+* sklearn
+
 
 # Data Preparation
 
@@ -243,27 +245,35 @@ The table above shows the results for the ANN models for the Southwestern_Female
 
 # Decision Trees
 
-After completing the ANN models, decision trees were created for each region, gender, and ethnicities. Below is a table of the results.
+After completing the ANN models, decision trees were created for each region (Metro, Western, Eastern, and Southwestern), gender (Male or Female), and ethnicity (Asian, Black or African American, Hispanic, and White). The accuracy rates for each decision tree were calculated as well.
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
 |Metro|Female|49%|
 |Metro|Male|34%|
 
+The table above shows the accuracy rates of the decision trees for Metro_Female and Metro_Male. The accuracy rate for Metro_Female was 49%, which is a little bit lower than the accuracy rate for the Metro_Female ANN model. The accuracy rate for Metro_Male was 34%, which is significantly lower than the accuracy rate for the Metro_Male ANN model.
+
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
 |Western|Female|14%|
 |Western|Male|11%|
+
+The table above shows the accuracy rates of the decision trees for Western_Female and Western_Male. The accuracy rate for Western_Female was 14%, which is significanly lower than the accuracy rate for the Western_Female ANN model. The accuracy rate for Western_Male was 11%, which is significantly lower than the accuracy rate for the Western_Male ANN model.
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
 |Eastern|Female|12%|
 |Eastern|Male|10%|
 
+The table above shows the accuracy rates of the decision trees for Eastern_Female and Eastern_Male. The accuracy rate for Eastern_Female was 12%, which is significanly higher than the accuracy rate for the Eastern_Female ANN model. The accuracy rate for Eastern_Male was 10%, which is slightly lower than the accuracy rate for the Eastern_Male ANN model.
+
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
 |Southwestern|Female|15%|
 |Southwestern|Male|15%|
+
+The table above shows the accuracy rates of the decision trees for Southwestern_Female and Southwestern_Male. The accuracy rate for Southwestern_Female was 15%, which is significanly lower than the accuracy rate for the Southwestern_Female ANN model. The accuracy rate for Southwestern_Male was 15%, which is significatly higher than the accuracy rate for the Southwestern_Male ANN model.
 
 # Dendograms and Agglomerative Clustering of Female Metro Data
 
@@ -316,6 +326,8 @@ Below is a table created for the number of clusters for each region of data base
 |Eastern|Male|2|14|0.556|
 |Southwestern|Female|3|2|0.700|
 |Southwestern|Male|3|13|0.540|
+
+From the table above, the number of clusters from the Elbow Method and Silhouette Method were very similar with the exception of Eastern_Male and Southwestern_Male. The Eastern_Male optimal number of clusters by using the Elbow Method was projected to be 2 and the Silhouette Method project the optimal number of clusters to be 14. The Elbow Method projected the optimal number of clusters for Southwestern_Male data was 3 and the Silhouette Method projected the optimal number of clusters to be 13.
 
 # Conclusions
 
