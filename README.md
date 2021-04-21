@@ -208,26 +208,29 @@ Due to the small number of outliers, they were left into the dataset since they 
 
 The first machine learning task completed was creating artificial neural networks (ANN). Eight different ANN models were created to correctly predict the graduation rates based on region (Metro, Western, Eastern, or Southwestern), gender (Male or Female), and ethnicity (Asian, Black or African American, Hispanic, and White). The counties for each region were reclassified into numeric values in order to complete the ANN models. The data was split into 70:30 ratio for training and testing datasets.
 
-The ANN models for the Metro data consisted of three hidden layers of 25 and a max iteration of 3,000. Below is a table of the results. 
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|54%|55%|El Paso County|
 |Male|48%|44%|Boulder County|
 
-The ANN models for the female and male Western data consisted of three hidden layers of 20 and a max of iteration of 3,000. Below is a table of the results.
+The table above shows the results for the ANN models for the Metro_Female and Metro_Male data. The ANN models consisted of three hidden layers of 25 and a max iteration of 3,000. The results showed that the Metro_Female model had a 54% prediction rate when correctly predicting whether a female will graduate in the Metro dataset based on ethnicity. The county that showed the most accurate results was El Paso County for the Metro_Female model. The Metro_Male model had a 48% prediction rate when correctly predicting whether a male will graduate in the Metro dataset based on ethnicity. The county that showed the most accurate results was Boulder County for the Metro_Male model. It's clear that females had a better prediction for graduation than males in the Metro region.
+
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|23%|15%|Summit County|
 |Male|25%|12%|Montrose County|
 
-The ANN model for the female and male Eastern data consisted of three hidden layers of 50 and a max iteration of 3,000. Below is a table of the results.
+The table above shows the results for the ANN models for the Western_Female and Western_Male data. The ANN models consisted of three hidden layers of 20 and a max iteration of 3,000. The results showed that the Western_Female model had a 23% prediction rate when correctly predicting whether a female will graduate in the Western dataset based on ethnicity. The county that showed the most accurate results was Summit County for the Western_Female model. The Western_Male model had a 25% prediction rate when correctly predicting whether a male will graduate in the Western dataset based on ethnicity. The county that showed the most accurate results was Montrose County for the Metro_Male model. It's clear that males had a better prediction for graduation than females in the Western region.
+
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|1%|1%|Bent County|
 |Male|12%|9%|Prowers County|
+
+The table above shows the results for the ANN models for the Eastern_Female and Eastern_Male data. The ANN models consisted of three hidden layers of 50 and a max iteration of 3,000. The results showed that the Eastern_Female model had a 1% prediction rate when correctly predicting whether a female will graduate in the Eastern dataset based on ethnicity. The county that showed the most accurate results was Bent County for the Eastern_Female model. The Eastern_Male model had a 12% prediction rate when correctly predicting whether a male will graduate in the Eastern dataset based on ethnicity. The county that showed the most accurate results was Prowers County for the Eastern_Male model. It's clear that males had a better prediction for graduation than females in the Eastern region.
 
 The ANN model for the female and male Southwestern data consisted of three hidden layers of 100 and a max iteration of 3,000. Below is a table of the results.
 
@@ -235,6 +238,8 @@ The ANN model for the female and male Southwestern data consisted of three hidde
 |------|----------|---------|-------------------------|
 |Female|22%|14%|Fremont County|
 |Male|10%|10%|La Plata County|
+
+The table above shows the results for the ANN models for the Southwestern_Female and Southwestern_Male data. The Southwestern_Female ANN model consisted of three hidden layers of 100 and a max iteration of 3,000. The Southwestern_Male ANN model consisted of three hidden layers of 50 and a max iteration of 3,000. The results showed that the Southwestern_Female model had a 22% prediction rate when correctly predicting whether a female will graduate in the Southwestern dataset based on ethnicity. The county that showed the most accurate results was Fremont County for the Southwestern_Female model. The Southwestern_Male model had a 10% prediction rate when correctly predicting whether a male will graduate in the Southwestern dataset based on ethnicity. The county that showed the most accurate results was La Plata County for the Southwestern_Male model. It's clear that females had a better prediction for graduation than males in the Southwestern region.
 
 # Decision Trees
 
@@ -244,10 +249,19 @@ After completing the ANN models, decision trees were created for each region, ge
 |------|------|-------------|
 |Metro|Female|49%|
 |Metro|Male|34%|
+
+|Region|Gender|Accuracy Rate|
+|------|------|-------------|
 |Western|Female|14%|
 |Western|Male|11%|
+
+|Region|Gender|Accuracy Rate|
+|------|------|-------------|
 |Eastern|Female|12%|
 |Eastern|Male|10%|
+
+|Region|Gender|Accuracy Rate|
+|------|------|-------------|
 |Southwestern|Female|15%|
 |Southwestern|Male|15%|
 
