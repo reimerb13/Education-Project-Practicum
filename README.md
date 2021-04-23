@@ -333,7 +333,18 @@ From the table above, the number of clusters from the Elbow Method and Silhouett
 
 The data shows that geographic location plays a role in high school graduation rates in Colorado. It was evident that ethnicity and gender played a role in Colorado high school graduation rates as well. The best accuracy rate for correctly predicting high school graduation rates in Colorado, based on the ANN models and decision trees, were in the Metro region. The least effective accuracy rate for correctly predicting high school graduation rates in Colorado, based on the ANN models and decision trees, were in the Eastern region. The ANN and decision trees showed that females generally had a better prediction for graduating high school in Colorado than males.
 
+After viewing the results, I would encourage the Colorado Department of Education (CDE) to see why the correct prediction in graduation rate by ethnicity in the 
+Eastern dataset was much lower than the other three regions (Metro, Western, and Southwestern). I would also recommend that CDE look into why the female graduation
+rate in most of the regions had better predictions for the different regions than males. The CDE should invest resources in aiding graduation rates for the Eastern
+region and for males in Colorado.
+
+The results from the machine learning models included all of the different range of years a Colorado high school student can graduate (4, 5, 6, or 7 years). The results may have been different if only a specific year range would have been evaluated.
+
 # Future Project Ideas
+
+A future project idea would to be to look at other external factors that affect graduation rates for Colorado high school students outside of gender and ethnicity. By looking at other external factors, CDE could invest their time and resources into providing programs to aide Colorado high school students.
+
+Another future project idea could be to project high school graduation rates and number of total completers by region, gender, and ethnicity over a span of time. By projecting future graduation rates, CDE could invest resources into accomplishing a specific high school graduation rate amongst Colorado high school students. An example of a goal could be to have Colorado high school graduation rates all be at 95% in all counties and regions in Colorado by the year 2040.
 
 # References
 
@@ -359,6 +370,7 @@ Hierarchical Clustering in Python, Step by Step Complete Guide. (2020, June 4). 
 	Retrieved April 11, 2021 from https://www.mltut.com/hierarchical-clustering-in-python-
 	step-by-step-complete guide/#:~:text=The%20final%20cluster%20in%20the%20Hierarchical%20cluster%20co
 	mbines,gained%20brief%20knowledge%20about%20Clustering%20and%20its%20types.
+
 
 Matplotlib development team. (2021). List of named colors. Matplotlib. Retrieved March 28, 
   	2021 from https://matplotlib.org/stable/gallery/color/named_colors.html.
