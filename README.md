@@ -338,8 +338,7 @@ The data shows that geographic location plays a role in high school graduation r
 # References
 
 A Detailed Introduction to K-Means Clustering in Python! (2020, December 3). Analytics 
-	Vidhya. Retrieved April 11, 2021 from https://www.analyticsvidhya.com/blog/2020/12/a-
-	detailed-introduction-to-k-means-clustering-in-python/.
+	Vidhya. Retrieved April 11, 2021 from https://www.analyticsvidhya.com/blog/2020/12/a-detailed-introduction-to-k-means-clustering-in-python/.
 
 
 Colorado Department of Education. (2021).  Graduates and Completers by Districts, Gender, 
@@ -348,12 +347,13 @@ Colorado Department of Education. (2021).  Graduates and Completers by Districts
 
 DataScience Made Simple. (2021). BOX PLOT IN PYTHON WITH MATPLOTLIB. DataScience
 	Made Simple. Retrieved March 28, 2021 from 
- 	 https://www.datasciencemadesimple.com/box-plot-in-
-  	python/#:~:text=boxplot%28%29%20function%20takes%20the%20data%20array%20to
- 	 %20be,plotted.%20Create%20box%20plot%20in%20python%20with%20notch.
+ 	https://www.datasciencemadesimple.com/box-plot-in-
+	python/#:~:text=boxplot%28%29%20function%20takes%20the%20data%20array%20to
+	%20be,plotted.%20Create%20box%20plot%20in%20python%20with%20notch.
+
 
 FTE. (2021). Week 5 – Artificial Neural Network (ANN). Retrieved April 2, 2021 from 
-	https://worldclass.regis.edu/d2l/home/264017.
+	http://localhost:8888/notebooks/Downloads/FTE_Week5(2).ipynb.
 	
 Hierarchical Clustering in Python, Step by Step Complete Guide. (2020, June 4). MLTut.com 
 	Retrieved April 11, 2021 from https://www.mltut.com/hierarchical-clustering-in-python-
