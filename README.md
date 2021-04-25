@@ -213,10 +213,10 @@ The first machine learning task completed was creating artificial neural network
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
-|Female|54%|55%|El Paso County|
-|Male|48%|44%|Boulder County|
+|Female|48%|48%|Denver County|
+|Male|50%|45%|Boulder County|
 
-The table above shows the results for the ANN models for the Metro_Female and Metro_Male data. The ANN models consisted of three hidden layers of 25 and a max iteration of 3,000. The results showed that the Metro_Female model had a 54% prediction rate when correctly predicting whether a female will graduate in the Metro dataset based on ethnicity. The county that showed the most accurate results was El Paso County for the Metro_Female model. The Metro_Male model had a 48% prediction rate when correctly predicting whether a male will graduate in the Metro dataset based on ethnicity. The county that showed the most accurate results was Boulder County for the Metro_Male model. It's clear that females had a better prediction for graduation than males in the Metro region.
+The table above shows the results for the ANN models for the Metro_Female and Metro_Male data. The ANN models consisted of three hidden layers of 25 and a max iteration of 3,000. The results showed that the Metro_Female model had a 48% prediction rate when correctly predicting whether a female will graduate in the Metro dataset based on ethnicity. The county that showed the most accurate results was El Paso County for the Metro_Female model. The Metro_Male model had a 50% prediction rate when correctly predicting whether a male will graduate in the Metro dataset based on ethnicity. The county that showed the most accurate results was Boulder County for the Metro_Male model. It's clear that males had a slightly better prediction for graduation than females in the Metro region.
 
 
 |Gender|Precision|f1-Score|County with Best Results|
@@ -249,10 +249,10 @@ After completing the ANN models, decision trees were created for each region (Me
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
-|Metro|Female|49%|
+|Metro|Female|45%|
 |Metro|Male|34%|
 
-The table above shows the accuracy rates of the decision trees for Metro_Female and Metro_Male. The accuracy rate for Metro_Female was 49%, which is a little bit lower than the accuracy rate for the Metro_Female ANN model. The accuracy rate for Metro_Male was 34%, which is significantly lower than the accuracy rate for the Metro_Male ANN model.
+The table above shows the accuracy rates of the decision trees for Metro_Female and Metro_Male. The accuracy rate for Metro_Female was 45%, which is a little bit lower than the accuracy rate for the Metro_Female ANN model. The accuracy rate for Metro_Male was 34%, which is significantly lower than the accuracy rate for the Metro_Male ANN model.
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
