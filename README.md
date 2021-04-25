@@ -229,19 +229,19 @@ The table above shows the results for the ANN models for the Western_Female and 
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
-|Female|1%|1%|Bent County|
-|Male|12%|9%|Prowers County|
+|Female|12%|8%|Pueblo County|
+|Male|9%|8%|Weld County|
 
-The table above shows the results for the ANN models for the Eastern_Female and Eastern_Male data. The ANN models consisted of three hidden layers of 50 and a max iteration of 3,000. The results showed that the Eastern_Female model had a 1% prediction rate when correctly predicting whether a female will graduate in the Eastern dataset based on ethnicity. The county that showed the most accurate results was Bent County for the Eastern_Female model. The Eastern_Male model had a 12% prediction rate when correctly predicting whether a male will graduate in the Eastern dataset based on ethnicity. The county that showed the most accurate results was Prowers County for the Eastern_Male model. It's clear that males had a better prediction for graduation than females in the Eastern region.
+The table above shows the results for the ANN models for the Eastern_Female and Eastern_Male data. The ANN models consisted of three hidden layers of 50 and a max iteration of 3,000. The results showed that the Eastern_Female model had a 12% prediction rate when correctly predicting whether a female will graduate in the Eastern dataset based on ethnicity. The county that showed the most accurate results was Pueblo County for the Eastern_Female model. The Eastern_Male model had a 9% prediction rate when correctly predicting whether a male will graduate in the Eastern dataset based on ethnicity. The county that showed the most accurate results was Weld County for the Eastern_Male model. It's clear that females had a better prediction for graduation than males in the Eastern region.
 
 The ANN model for the female and male Southwestern data consisted of three hidden layers of 100 and a max iteration of 3,000. Below is a table of the results.
 
 |Gender|Precision|f1-Score|County with Best Results|
 |------|----------|---------|-------------------------|
 |Female|22%|14%|Fremont County|
-|Male|10%|10%|La Plata County|
+|Male|9%|10%|Fremont County and La Plata County|
 
-The table above shows the results for the ANN models for the Southwestern_Female and Southwestern_Male data. The Southwestern_Female ANN model consisted of three hidden layers of 100 and a max iteration of 3,000. The Southwestern_Male ANN model consisted of three hidden layers of 50 and a max iteration of 3,000. The results showed that the Southwestern_Female model had a 22% prediction rate when correctly predicting whether a female will graduate in the Southwestern dataset based on ethnicity. The county that showed the most accurate results was Fremont County for the Southwestern_Female model. The Southwestern_Male model had a 10% prediction rate when correctly predicting whether a male will graduate in the Southwestern dataset based on ethnicity. The county that showed the most accurate results was La Plata County for the Southwestern_Male model. It's clear that females had a better prediction for graduation than males in the Southwestern region.
+The table above shows the results for the ANN models for the Southwestern_Female and Southwestern_Male data. The Southwestern_Female ANN model consisted of three hidden layers of 100 and a max iteration of 3,000. The Southwestern_Male ANN model consisted of three hidden layers of 50 and a max iteration of 3,000. The results showed that the Southwestern_Female model had a 22% prediction rate when correctly predicting whether a female will graduate in the Southwestern dataset based on ethnicity. The county that showed the most accurate results was Fremont County for the Southwestern_Female model. The Southwestern_Male model had a 9% prediction rate when correctly predicting whether a male will graduate in the Southwestern dataset based on ethnicity. The county that showed the most accurate results was Fremont County and La Plata County for the Southwestern_Male model. It's clear that females had a better prediction for graduation than males in the Southwestern region.
 
 # Decision Trees
 
@@ -263,17 +263,17 @@ The table above shows the accuracy rates of the decision trees for Western_Femal
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
-|Eastern|Female|12%|
-|Eastern|Male|10%|
+|Eastern|Female|13%|
+|Eastern|Male|11%|
 
-The table above shows the accuracy rates of the decision trees for Eastern_Female and Eastern_Male. The accuracy rate for Eastern_Female was 12%, which is significanly higher than the accuracy rate for the Eastern_Female ANN model. The accuracy rate for Eastern_Male was 10%, which is slightly lower than the accuracy rate for the Eastern_Male ANN model.
+The table above shows the accuracy rates of the decision trees for Eastern_Female and Eastern_Male. The accuracy rate for Eastern_Female was 13%, which is significanly higher than the accuracy rate for the Eastern_Female ANN model. The accuracy rate for Eastern_Male was 11%, which is slightly lower than the accuracy rate for the Eastern_Male ANN model.
 
 |Region|Gender|Accuracy Rate|
 |------|------|-------------|
 |Southwestern|Female|15%|
-|Southwestern|Male|15%|
+|Southwestern|Male|13%|
 
-The table above shows the accuracy rates of the decision trees for Southwestern_Female and Southwestern_Male. The accuracy rate for Southwestern_Female was 15%, which is significanly lower than the accuracy rate for the Southwestern_Female ANN model. The accuracy rate for Southwestern_Male was 15%, which is significatly higher than the accuracy rate for the Southwestern_Male ANN model.
+The table above shows the accuracy rates of the decision trees for Southwestern_Female and Southwestern_Male. The accuracy rate for Southwestern_Female was 15%, which is significanly lower than the accuracy rate for the Southwestern_Female ANN model. The accuracy rate for Southwestern_Male was 13%, which is significatly higher than the accuracy rate for the Southwestern_Male ANN model.
 
 # Dendograms and Agglomerative Clustering of Female Metro Data
 
@@ -289,7 +289,7 @@ From the dendrogram, it appeared that the optimal number of clusters was 3. Afte
 
 There are three different clusters for the female Metro data. The three different colors used in this graphical display was red, blue, and green.
 
-This process was used for all the different regions and genders. Below is a table of the potential number of clusters based on the respective dendrograms.
+This process was used for all the different regions and genders. Below is a table of the potential number of clusters based on the respective dendrograms. A document of all visualizations for the dendrograms for each region and gender is attached to this instance page.
 
 |Region|Gender|Optimal Number of Clusters from Dendrograms|
 |------|------|-------------------------------------------|
@@ -314,7 +314,7 @@ Using the Elbow method, it appeared that the optimal number of clusters was 3. T
 
 Looking at the Silhouette Method for the Metro Female data,the optimal number of clusters was 2 with a silhouette score of 0.607.
 
-Below is a table created for the number of clusters for each region of data based on gender using the Elbow and Silhouette K-Means clustering techniques.
+Below is a table created for the number of clusters for each region of data based on gender using the Elbow and Silhouette K-Means clustering techniques. A document of all visualizations for the elbow method and silhouette method for each region and gender is attached to this instance page.
 
 |Region|Gender|Number of Clusters by Elbow Method|Number of Clusters by Silhouette Method|Silhouette Score|
 |------|------|----------------------------------|---------------------------------------|----------------|
