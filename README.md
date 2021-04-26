@@ -384,7 +384,7 @@ FTE. (2021). Week 5 – Artificial Neural Network (ANN). Retrieved April 2, 2021
 	http://localhost:8888/notebooks/Downloads/FTE_Week5(2).ipynb.
 	
 Hierarchical Clustering in Python, Step by Step Complete Guide. (2020, June 4). MLTut.com 
-	Retrieved April 11, 2021 from https://www.mltut.com/hierarchical-clustering-in-python-step-by-step-completeguide/#:~:text=The%20final%20cluster%20in%20the%20Hierarchical%20cluster%20combines,gained%20brief%20knowledge%20about%20Clustering%20and%20its%20types.
+	Retrieved April 11, 2021 from https://www.mltut.com/hierarchical-clustering-in-python-step-by-step-complete-guide/#:~:text=The%20final%20cluster%20in%20the%20Hierarchical%20cluster%20combines,gained%20brief%20knowledge%20about%20Clustering%20and%20its%20types.
 
 
 Matplotlib development team. (2021). List of named colors. Matplotlib. Retrieved March 28, 
