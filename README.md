@@ -316,7 +316,8 @@ This process was used for all the different regions and genders. Below is a tabl
 
 The final clustering techniques was the K-Means clustering techniques using the Elbow and Silhouette Methods. This was used for the regions, gender, and ethnicities. The data chosen to look at was the Metro_Female and Metro_Male datasets. 
 
-<img width="395" alt="image" src="https://user-images.githubusercontent.com/79723505/115126614-c7190980-9f7c-11eb-8f35-0a023846ce59.png">
+<img width="272" alt="image" src="https://user-images.githubusercontent.com/79723505/116014396-87d46380-a5e1-11eb-97fe-5cda05cb9835.png">
+
 
 Using the Elbow method, it appeared that the optimal number of clusters for the Metro_Female data was 3. The next method was using the Silhouette Method for K-Means clustering. 
 
@@ -324,7 +325,7 @@ Using the Elbow method, it appeared that the optimal number of clusters for the 
 
 Using the Elbow method, it appeared that the optimal number of clusters for the Metro_Male data was 2. The next method was using the Silhouette Method for K-Means clustering. 
 
-<img width="419" alt="image" src="https://user-images.githubusercontent.com/79723505/115126647-05aec400-9f7d-11eb-807a-d03be00a1cac.png">
+<img width="331" alt="image" src="https://user-images.githubusercontent.com/79723505/116014401-96bb1600-a5e1-11eb-9cd2-6b095d25b576.png">
 
 Looking at the Silhouette Method for the Metro_Female data,the optimal number of clusters was 2 with a silhouette score of 0.607.
 
