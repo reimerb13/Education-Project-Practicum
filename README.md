@@ -377,18 +377,14 @@ Colorado Department of Education. (2021).  Graduates and Completers by Districts
 
 DataScience Made Simple. (2021). BOX PLOT IN PYTHON WITH MATPLOTLIB. DataScience
 	Made Simple. Retrieved March 28, 2021 from 
- 	https://www.datasciencemadesimple.com/box-plot-in-
-	python/#:~:text=boxplot%28%29%20function%20takes%20the%20data%20array%20to
-	%20be,plotted.%20Create%20box%20plot%20in%20python%20with%20notch.
+ 	https://www.datasciencemadesimple.com/box-plot-in-python/#:~:text=boxplot%28%29%20function%20takes%20the%20data%20array%20to%20be,plotted.%20Create%20box%20plot%20in%20python%20with%20notch.
 
 
 FTE. (2021). Week 5 – Artificial Neural Network (ANN). Retrieved April 2, 2021 from 
 	http://localhost:8888/notebooks/Downloads/FTE_Week5(2).ipynb.
 	
 Hierarchical Clustering in Python, Step by Step Complete Guide. (2020, June 4). MLTut.com 
-	Retrieved April 11, 2021 from https://www.mltut.com/hierarchical-clustering-in-python-
-	step-by-step-complete guide/#:~:text=The%20final%20cluster%20in%20the%20Hierarchical%20cluster%20co
-	mbines,gained%20brief%20knowledge%20about%20Clustering%20and%20its%20types.
+	Retrieved April 11, 2021 from https://www.mltut.com/hierarchical-clustering-in-python-step-by-step-completeguide/#:~:text=The%20final%20cluster%20in%20the%20Hierarchical%20cluster%20combines,gained%20brief%20knowledge%20about%20Clustering%20and%20its%20types.
 
 
 Matplotlib development team. (2021). List of named colors. Matplotlib. Retrieved March 28, 
@@ -398,8 +394,7 @@ Motwani, S. (2020). Decision Tree Implementation in Python with Example. Retriev
 	 2021 from https://in.springboard.com/blog/decision-tree-implementation-in-python/.
 	 
 Nanduri, A. (2020). Different ways to create, subset, and combine data frames using	pandas. 
-  Retrieved March 20, 2021 from https://towardsdatascience.com/different-ways-
-  to-create-subset-and-combine-dataframes-using-pandas-e7227330a7f1.
+  Retrieved March 20, 2021 from https://towardsdatascience.com/different-ways-to-create-subset-and-combine-dataframes-using-pandas-e7227330a7f1.
 
 OneStop_Data. (2020). Easy Outlier Detection in Python. OneStop Data Analysis. Retrieved
 	March 28, 2021 from https://onestopdataanalysis.com/python-outlier-detection/. 
