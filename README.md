@@ -275,19 +275,29 @@ The table above shows the accuracy rates of the decision trees for Eastern_Femal
 
 The table above shows the accuracy rates of the decision trees for Southwestern_Female and Southwestern_Male. The accuracy rate for Southwestern_Female was 15%, which is significanly lower than the accuracy rate for the Southwestern_Female ANN model. The accuracy rate for Southwestern_Male was 13%, which is significatly higher than the accuracy rate for the Southwestern_Male ANN model.
 
-# Dendograms and Agglomerative Clustering of Female Metro Data
+# Dendograms and Agglomerative Clustering of Metro Region
 
 After completing the ANN models, the next machine learning model topic was to look at dendrograms and different clustering techniques. Dendrograms were created to determine the optimal number of clusters. One clustering technique that was conducted was agglomerative clustering. Agglomerative clustering was used to make predictions based on the numbers of clusters from the dendrograms. 
 
-Below is a dendrogram created for the female Metro data.
+Below is a dendrogram created for the Metro_Female data.
 
 <img width="395" alt="image" src="https://user-images.githubusercontent.com/79723505/115126258-27f31280-9f7a-11eb-8320-ed9763035b6a.png">
 
-From the dendrogram, it appeared that the optimal number of clusters was 3. After viewing the dendrogram, agglomerative clustering was used to make predictions and then a graphical display was created of three clusters for the female Metro data.
+From the dendrogram, it appeared that the optimal number of clusters was 3. After viewing the dendrogram, agglomerative clustering was used to make predictions and then a graphical display was created of three clusters for the Metro_Female data.
+
+Below is a dendrogram created for the Metro_Male data.
+
+<img width="306" alt="image" src="https://user-images.githubusercontent.com/79723505/116014235-be5dae80-a5e0-11eb-9fde-0c938f77e89a.png">
+
+From the dendrogram, it appeared that the optimal number of clusters was 2. After viewing the dendrogram, agglomerative clustering was used to make predictions and then a graphical display was created of three clusters for the Metro_Male data.
 
 <img width="395" alt="image" src="https://user-images.githubusercontent.com/79723505/115126314-920bb780-9f7a-11eb-8089-5a32b994d141.png">
 
-There are three different clusters for the female Metro data. The three different colors used in this graphical display was red, blue, and green.
+There are three different clusters for the Metro_Female data. The three different colors used in the cluster graphical display were red, blue, and green.
+
+<img width="268" alt="image" src="https://user-images.githubusercontent.com/79723505/116014275-fe249600-a5e0-11eb-8c64-b89378d5f586.png">
+
+There are two different clusters for the Metro_Male data. The two colors used in the cluster graphical display were red and blue.
 
 This process was used for all the different regions and genders. Below is a table of the potential number of clusters based on the respective dendrograms. A document of all visualizations for the dendrograms for each region and gender is attached to this instance page.
 
@@ -302,17 +312,25 @@ This process was used for all the different regions and genders. Below is a tabl
 |Southwestern|Female|2|
 |Southwestern|Male|3|
 
-# Elbow Method and Silhouette Method for K-Means of Metro Female Data
+# Elbow Method and Silhouette Method for K-Means of Metro Region
 
-The final clustering techniques was the K-Means clustering techniques using the Elbow and Silhouette Methods. This was used for the regions, gender, and ethnicities. The data chosen to look at was the Metro Female data. 
+The final clustering techniques was the K-Means clustering techniques using the Elbow and Silhouette Methods. This was used for the regions, gender, and ethnicities. The data chosen to look at was the Metro_Female and Metro_Male datasets. 
 
 <img width="395" alt="image" src="https://user-images.githubusercontent.com/79723505/115126614-c7190980-9f7c-11eb-8f35-0a023846ce59.png">
 
-Using the Elbow method, it appeared that the optimal number of clusters was 3. The next method was using the Silhouette Method for K-Means clustering. 
+Using the Elbow method, it appeared that the optimal number of clusters for the Metro_Female data was 3. The next method was using the Silhouette Method for K-Means clustering. 
+
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/79723505/116014322-34621580-a5e1-11eb-919c-92037edfbca8.png">
+
+Using the Elbow method, it appeared that the optimal number of clusters for the Metro_Male data was 2. The next method was using the Silhouette Method for K-Means clustering. 
 
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/79723505/115126647-05aec400-9f7d-11eb-807a-d03be00a1cac.png">
 
-Looking at the Silhouette Method for the Metro Female data,the optimal number of clusters was 2 with a silhouette score of 0.607.
+Looking at the Silhouette Method for the Metro_Female data,the optimal number of clusters was 2 with a silhouette score of 0.607.
+
+<img width="331" alt="image" src="https://user-images.githubusercontent.com/79723505/116014334-4cd23000-a5e1-11eb-8f0c-34506a8e73f2.png">
+
+Looking at the Silhouette Method for the Metro_Male data,the optimal number of clusters was 2 with a silhouette score of 0.474.
 
 Below is a table created for the number of clusters for each region of data based on gender using the Elbow and Silhouette K-Means clustering techniques. A document of all visualizations for the elbow method and silhouette method for each region and gender is attached to this instance page.
 
